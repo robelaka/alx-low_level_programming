@@ -1,1 +1,1 @@
-C - Debugging
+Debugging
